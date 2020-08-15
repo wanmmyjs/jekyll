@@ -1,3 +1,4 @@
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
+remote_theme: volny/creative-theme-jekyll
 title: Illusionsoft, Inc
 description: Test description
